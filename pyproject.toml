@@ -14,8 +14,8 @@ dependencies = [
 ]
 
 [project.urls]
-homepage = "https://github.com/NeffIsBack/onelogon"
-repository = "https://github.com/Pennyw0rth/onelogon"
+homepage = "https://github.com/rub-softsec/onelogon"
+repository = "https://github.com/rub-softsec/onelogon"
 
 [project.scripts]
 onelogon-scanner = "scanner.scanner:main"
